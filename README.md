@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Chowdhury
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
