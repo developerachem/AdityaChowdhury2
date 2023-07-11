@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Aditya Chowdhury.<br>I am interested in Web Developement.<br>I am working on React and NodeJs.<br>
+Hi, I am Aditya Chowdhury.<br>I am interested in Web Development.<br>Now I am learning from Jhankar Mahabub.<br>
 
 
 ## 🌐 Socials:
