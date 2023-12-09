@@ -1,7 +1,11 @@
 ![Cover Image](/assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Chowdhury</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Aspiring to evolve from a skilled front-end developer to a versatile full-stack developer</h3>
+
+## Summary
+
+I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft seamless, user-centric web experiences. My passion lies in transforming designs into interactive and dynamic web applications 💻✨
 
 # 💫 About Me:
 
@@ -9,16 +13,18 @@
 
 - 👯 I'm looking to join an **Energetic Web Development Team**.
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **graywhite**
 
 - 📫 How to reach me **adityac5102@gmail.com**
 
-# 🌐 Contact me on:
+# 🌐 Talk to me:
 
 <div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chowdhury-durjoy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aditya_durjoy2)
+[![Gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail)](mailto:adityac5102@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-chowdhury-durjoy)
 [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/aditya6643)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aditya_durjoy2)
 
 </div>
 
@@ -34,15 +40,11 @@
 
 <div align='center'>
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaChowdhury2&show_icons=true&theme=graywhite&card_width=450&hide=stars,issues&custom_title=Aditya's%20GitHub%20Stats)
-
-<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaChowdhury2&theme=transparent&hide_border=false&card_width=800&hide_border=true)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaChowdhury2&layout=pie&theme=transparent&hide_border=true)
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaChowdhury2&theme=graywhite"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaChowdhury2&theme=graywhite"/>
 
 </div>
 
@@ -57,3 +59,18 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AdityaChowdhury2&icon=0&color=1)](https://visitcount.itsvg.in)
+
+# My Pinned Repo's
+
+<a href="https://github.com/AdityaChowdhury2/tech-trove-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=tech-trove-client" />
+</a>
+<a href="https://github.com/AdityaChowdhury2/digital-daynamo-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=digital-daynamo-client" />
+</a>
+<a href="https://github.com/AdityaChowdhury2/majesty-royal-hotel-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=majesty-royal-hotel-client" />
+</a>
+<a href="https://github.com/AdityaChowdhury2/elysian-events-client-aditya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya" />
+</a>
