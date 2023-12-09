@@ -40,7 +40,10 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 <div align='center'>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaChowdhury2&theme=graywhite&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=700"/>
+
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaChowdhury2&theme=graywhite"/>
+
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaChowdhury2&theme=graywhite"/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaChowdhury2&theme=graywhite"/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaChowdhury2&theme=graywhite"/>
@@ -54,22 +57,21 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
 
 # My Pinned Repo's
 
 <a href="https://github.com/AdityaChowdhury2/tech-trove-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=tech-trove-client" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=tech-trove-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/AdityaChowdhury2/digital-daynamo-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=digital-daynamo-client" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=digital-daynamo-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/AdityaChowdhury2/majesty-royal-hotel-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=majesty-royal-hotel-client" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=majesty-royal-hotel-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
 </a>
 <a href="https://github.com/AdityaChowdhury2/elysian-events-client-aditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
 </a>
 
 ---
