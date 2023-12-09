@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Chowdhury</h1>
 <h3 align="center">Aspiring to evolve from a skilled front-end developer to a versatile full-stack developer</h3>
 
-## Summary
+# Summary
 
 I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft seamless, user-centric web experiences. My passion lies in transforming designs into interactive and dynamic web applications 💻✨
 
@@ -51,14 +51,6 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 </div>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AdityaChowdhury2&margin-w=10&&theme=oldie&margin-h=10&title=Repositories,Experience,PullRequest,Commits,Joined2020)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
-
 # My Pinned Repo's
 
 <a href="https://github.com/AdityaChowdhury2/tech-trove-client">
@@ -73,6 +65,17 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 <a href="https://github.com/AdityaChowdhury2/elysian-events-client-aditya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
 </a>
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AdityaChowdhury2&margin-w=10&&theme=oldie&margin-h=10&title=Repositories,Experience,PullRequest,Commits,Joined2020)
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
+
+
 
 ---
 
