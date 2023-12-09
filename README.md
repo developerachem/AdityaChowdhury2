@@ -62,16 +62,17 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 # My Pinned Repo's
 
 <a href="https://github.com/AdityaChowdhury2/tech-trove-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=tech-trove-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=tech-trove-client&theme=graywhite&border_radius=10" />
 </a>
 <a href="https://github.com/AdityaChowdhury2/digital-daynamo-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=digital-daynamo-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=digital-daynamo-client&theme=graywhite&border_radius=10" />
 </a>
+<p><p/>
 <a href="https://github.com/AdityaChowdhury2/majesty-royal-hotel-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=majesty-royal-hotel-client&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=majesty-royal-hotel-client&theme=graywhite&border_radius=10" />
 </a>
 <a href="https://github.com/AdityaChowdhury2/elysian-events-client-aditya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya&theme=graywhite&border_radius=10&margin-w=10&margin-h=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya&theme=graywhite&border_radius=10" />
 </a>
 
 ---
