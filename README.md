@@ -56,9 +56,6 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=AdityaChowdhury2&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # My Pinned Repo's
 
@@ -74,3 +71,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 <a href="https://github.com/AdityaChowdhury2/elysian-events-client-aditya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya" />
 </a>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AdityaChowdhury2&icon=0&color=1)](https://visitcount.itsvg.in)
