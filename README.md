@@ -1,4 +1,4 @@
-d![Cover Image](/assets/banner2.png)
+![Cover Image](/assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Chowdhury</h1>
 <h3 align="center">A passionate frontend developer</h3>
