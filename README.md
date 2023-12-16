@@ -9,7 +9,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Typescript**
 
 - 👯 I'm looking to join an **Energetic Web Development Team**.
 
@@ -67,7 +67,6 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaChowdhury2&repo=elysian-events-client-aditya&theme=graywhite&border_radius=10" />
 </a>
 
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AdityaChowdhury2&margin-w=10&&theme=oldie&margin-h=10&title=Repositories,Experience,PullRequest,Commits,Joined2020)
@@ -75,8 +74,6 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
-
-
 
 ---
 
