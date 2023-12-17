@@ -13,7 +13,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 - 👯 I'm looking to join an **Energetic Web Development Team**.
 
-- 💬 Ask me about **graywhite**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **adityac5102@gmail.com**
 
