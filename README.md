@@ -76,7 +76,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 ---
 
-//https://komarev.com/ghpvc/?username=AdityaChowdhury2&abbreviated=true
-[](https://visitcount.itsvg.in/api?id=AdityaChowdhury2&icon=0&color=1)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 
 
